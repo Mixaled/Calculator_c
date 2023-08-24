@@ -1,0 +1,4 @@
+pyqt-tools
+PyQt6
+numpy
+matplotlib
