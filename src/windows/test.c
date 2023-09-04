@@ -1,6 +1,4 @@
 #include <check.h>
-
-#include "expression.c"
 #include "parsers.c"
 
 START_TEST(test_is_sign) {
